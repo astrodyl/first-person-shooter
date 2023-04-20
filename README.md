@@ -8,7 +8,7 @@ Check out the wiki for more information!
 # How to Play
 Run the the executable `fps.exe` located in `/release/v1.0`.
 
-## Creating a room
+## Creating a Lobby
 After loading into the game, you'll be presented with an option to create or join a room. To create a
 room, simply decide on a name of the lobby and click _create_. You'll be immediately entered into the 
 lobby and you'll be able to see the list of players. You can either start the game, or wait for your
